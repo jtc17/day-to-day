@@ -1,6 +1,4 @@
 # day-to-day
-Most used HTML at Prim
-
 <!DOCTYPE html>
 <html>
 <body>
